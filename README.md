@@ -68,15 +68,6 @@ A Software Engineering student passionate about building practical tech solution
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Code-fever1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Code-fever1&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-fever1&theme=tokyonight&hide_border=false&layout=compact)
-
----
 
 # 🚀 Featured Interests
 
@@ -91,16 +82,10 @@ A Software Engineering student passionate about building practical tech solution
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/Code-fever1)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/hammad-m19)
 
 <!-- Add your LinkedIn or Portfolio below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK) -->
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
