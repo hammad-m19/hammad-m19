@@ -82,10 +82,14 @@ A Software Engineering student passionate about building practical tech solution
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/hammad-m19)
+Show your links here in a clean badge-style format:
 
-<!-- Add your LinkedIn or Portfolio below -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK) -->
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/hammad-m19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-mahmood-a84664344/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hammad330.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadmahmood330@gmail.com)
+
+> Replace the placeholder URLs with your real links to make the profile fully yours.
 
 ---
 
