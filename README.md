@@ -31,7 +31,7 @@ A Software Engineering student passionate about building practical tech solution
   - Software project ideas
 
 - ⚡ Fun fact:
-  I overanalyze everything — which helps me notice details most people miss 👀
+  I overanalyze everything — which helps me notice details most people miss 
 
 ---
 
@@ -88,8 +88,6 @@ Show your links here in a clean badge-style format:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hammad-mahmood-a84664344/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hammad330.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadmahmood330@gmail.com)
-
-> Replace the placeholder URLs with your real links to make the profile fully yours.
 
 ---
 
