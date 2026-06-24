@@ -78,7 +78,7 @@ A Software Engineering student passionate about building practical tech solution
 - ⛓️ Blockchain & Web3
 - 🏗️ Software Architecture & Systems
 
----
+----
 
 # 🌐 Connect With Me
 
